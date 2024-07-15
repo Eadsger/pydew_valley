@@ -1,0 +1,20 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# Environment-specific settings
+.env
+
+# IDE files
+.vscode/
+*.idea/
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and databases
+*.log
+*.sqlite
